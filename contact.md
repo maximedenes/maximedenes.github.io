@@ -7,7 +7,7 @@ tags: [contact]
 
 ### E-mail (preferred)
 
-You can contact me by e-mail: mail [at] maximedenes.fr
+You can contact me by e-mail: maxime.denes [at] inria.fr
 
 ### Physical and postal address
 
